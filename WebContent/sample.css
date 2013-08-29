@@ -1,0 +1,13 @@
+#container 
+{ 
+width: 100 %; 
+clear: both; 
+border: 1px solid #CCC; 
+} 
+div
+{ 
+float: left; 
+width: 30%; 
+margin: 0 5px 0 0; 
+border: 1px solid #CCC; 
+} 
